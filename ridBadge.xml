@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>  
+<ModulePrefs title="researcher ID badge" />
+  <Content type="html">
+<![CDATA[
+        <span id='badgeCont84690' style='width:126px'>
+        <script src='http://labs.researcherid.com/mashlets?el=badgeCont84690&mashlet=badge&showTitle=false&className=a&rid=J-9220-2015'>
+        </script>
+        </span>
+]]> 
+  </Content>
+</Module>
